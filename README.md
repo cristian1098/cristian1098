@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi I'm Cristian 👋
 
-<!--
+<!-- js
+const cristian1098 = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS,Java,c#,],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices"],
+}
+...
+you cand find me:
+[email] fernandezcristian1098@gmail.com
+
 **cristian1098/cristian1098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
