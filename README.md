@@ -11,6 +11,9 @@ const cristian1098 = {
 you cand find me:
 [email] fernandezcristian1098@gmail.com
 
+[![cristian1098 GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian1098)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **cristian1098/cristian1098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
