@@ -1,6 +1,6 @@
 ### Hi I'm Cristian 👋
 
-<!-- js
+
 const cristian1098 = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS,Java,c#,],
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
