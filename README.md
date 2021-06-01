@@ -4,12 +4,12 @@
 const cristian1098 = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS,Java,c#,],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices"],
+  tools: [React, Redux, Node, Storybook, Styled-Components,],
+  
 }
 ...
 you cand find me:
-[email] fernandezcristian1098@gmail.com
+[email] cfernandezpando@gmail.com
 
 [![cristian1098 GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian1098)](https://github.com/anuraghazra/github-readme-stats)
 
