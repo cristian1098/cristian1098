@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Asp NetCore5
 - 👯 I’m looking to collaborate on FrontEnd projects
 - 📫 How to reach me: cfernandezpando@gmail.com || https://www.linkedin.com/in/cristian-fernandez- || mobile: +54 9 2613455546
-![Image of JavasCript](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmidu.dev%2Ffondos-de-pantalla-de-programacion-javascript-html-css-react%2F&psig=AOvVaw2SkjcbGA8MEvARby6Aaytr&ust=1627432547952000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDUueqAgvICFQAAAAAdAAAAABAD)
-
+(![una-taza-de-javascript](https://user-images.githubusercontent.com/67169924/127076773-a8714584-cc6f-4973-a8f4-e0eaafdbbb15.png)
+)
